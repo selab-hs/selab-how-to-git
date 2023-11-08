@@ -1,2 +1,2 @@
 # selab-how-to-git
-github 사용법을 알아보자
+> branch를 만들고 깃 사용법을 정리해주세요 ^_^
